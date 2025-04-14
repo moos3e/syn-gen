@@ -4,11 +4,11 @@ A minimalist, dark-themed synonym finder built with React and TypeScript. Get in
 
 ## Features
 
-- 🌙 Dark mode interface
-- ⚡ Instant synonym lookup
-- 📊 Relevancy scoring
-- 🎯 Minimalist design
-- 🔄 Real-time results
+- Dark mode interface
+- Instant synonym lookup
+- Relevancy scoring
+- Minimalist design
+- Real-time results
 
 ## Tech Stack
 
