@@ -1,10 +1,9 @@
-# Syn-gen
+# Syn-gen by Mustafa Said
 
-A minimalist, dark-themed synonym finder built with React and TypeScript. Get instant synonyms for any word with a beautiful, modern interface.
+A minimalist synonym finder built with React and TypeScript
 
 ## Features
 
-- Dark mode interface
 - Instant synonym lookup
 - Relevancy scoring
 - Minimalist design
@@ -45,5 +44,3 @@ npm run build
 ```
 
 ## License
-
-MIT
